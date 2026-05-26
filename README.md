@@ -1,5 +1,13 @@
-# nodb_pro
+# Basic Python Projects With Out any database
+# Only Use Tkinter Gor Gui. 
+03 Game(Tic-Tac-Toe)
+<img width="648" height="409" alt="o3" src="https://github.com/user-attachments/assets/47987214-f4a5-4bea-aafd-47e2eeae985d" />
 
-All the mini-project without databse in python.
-#Hotelmangment
-Use the simple datatype as list to show drinks and food with prize.
+04 Digital Clcok
+<img width="468" height="206" alt="image" src="https://github.com/user-attachments/assets/d1935508-c0b6-415f-a1fb-30ed08557844" />
+
+
+
+
+
+
